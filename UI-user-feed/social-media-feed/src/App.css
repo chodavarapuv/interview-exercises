@@ -1,0 +1,70 @@
+.App {
+  background-color: #11171d;
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-header {
+  background-color: gray;
+  height: 60px;
+  padding: 20px;
+  width: 800px;
+  margin: 5px auto auto auto;
+  text-align: center;
+  color: white;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center
+}
+
+.Feed {
+  display: flex;
+  flex-direction: column;
+  margin: 5px auto auto auto;
+  min-width: 566px;
+  height: 100px;
+  font-family: "Comic Sans MS";
+  background-color: #7e4a35;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+.Feed-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Feed-new {
+  display: flex;
+  flex-direction: column;
+  margin: 5px auto auto auto;
+  min-width: 566px;
+  height: 50px;
+  font-family: "Comic Sans MS";
+  background-color: white;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+.Likes {
+  margin-left: 160px;
+  text-align: left;
+}
+
+.Like-btn {
+  text-align: center;
+  border: none;
+  background: black;
+  border-radius: 3px;
+  font-size: 12px;
+  cursor: pointer;
+  margin-left: 5px;
+  outline: none;
+  color: #ffffff;
+  text-decoration: none;
+}
