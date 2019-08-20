@@ -11,3 +11,9 @@
 - After you complete the exercise, provide notes below on how your code can be ran whether it be by simply opening a index.html file or through an npm command
 
 ## Candidate Notes:
+
+## Instructions to run this app locally on your machine
+
+- This exercise is done using react. So you need to have nodejs and npm installed on your machine.
+- Clone this repo and navigate to this folder.
+- In this folder from the commandline, run the command 'npm start'. This should start a local server and the app should now be running at 'http://localhost:3000/'
