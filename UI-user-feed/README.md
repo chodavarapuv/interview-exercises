@@ -12,6 +12,8 @@
 
 ## Candidate Notes:
 
+## Instructions to run this app locally on your machine
+
 Note : These instructions are tested on a MAC only. 
 
 - This exercise is done using react and I have created this app using 'create-react-app' and npm. So you need to have nodejs and npm installed on your machine.
