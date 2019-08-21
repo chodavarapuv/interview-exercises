@@ -1,7 +1,7 @@
 let palindromes = [];
 
 getAllPalindromesInAString = (inputString) => {
-    if(inputString.length == 1) {
+    if(inputString.length == 1 || inpurString.length == 0) {
         return inputString;
     }
 
